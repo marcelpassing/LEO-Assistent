@@ -1,1 +1,1 @@
-# LEO-Assistent
+LEO Web-App. Render: Static Site, branch main, Build Command: echo ready, Publish Directory: public. Supabase connection is configured with a public key. OpenAI secret must be configured separately in Supabase.
